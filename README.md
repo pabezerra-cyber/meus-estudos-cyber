@@ -5,5 +5,6 @@
 - Cursando: Google Cybersecurity Certificate
 
 ## O que estou aprendendo
-- [ ] Dia 1: Como funciona a internet (HTTP, etc)
-- [ ] Dia 2: OWASP Top 10 na prática
+- [x] Dia 1: Fundamentos - Offensive e Defensive Intro ✅
+- [x] Entendi o ciclo ataque e defesa no FakeBank
+- [ ] Dia 2: OWASP Top 10 - Começando
